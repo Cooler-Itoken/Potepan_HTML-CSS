@@ -1,0 +1,45 @@
+@media screen and ( max-width:1080px ) {
+  .HeaderNavHamburger {
+    cursor: pointer;
+    display: block;
+    position: relative;
+    width: 30px;
+    height: 21px;
+    z-index: 100;
+  }
+}
+
+@media screen and ( max-width:1024px ) {
+  
+}
+
+@media screen and ( min-width:768px ) {
+  
+}
+
+@media screen and ( max-width:767px ) {
+  
+  .FirstView__main-image--sp {
+    display: block;
+  }
+  
+  .AboutWrapper {
+    padding: 30px 0;
+  }
+  
+  .About {
+    max-width: none;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+  .About__video {
+    width: 100%;
+  }
+  
+  .About__title {
+    margin-bottom: 0;
+    width: 100%;
+  }
+  
+}
