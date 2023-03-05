@@ -179,6 +179,10 @@ section{
     margin-right: 8px;
 }
 
+.FirstViewContent__images img:nth-of-type(2) {
+    width: 40%;
+}
+
 .FirstViewContent__buttons{
     display: flex;
 }
